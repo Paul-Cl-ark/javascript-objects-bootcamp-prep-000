@@ -1,3 +1,4 @@
 var playlist = {
-  Led Zeppelin:
-}
+  ledZeppelin: 'Stairway to Heaven'
+};
+
